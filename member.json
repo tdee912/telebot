@@ -1,8 +1,12 @@
 {"data_member":
  [{"memberid": "0001",
-  "nama_member": "tdee_gits",
+  "nama_member": "Ikki",
   "noWA": "08998606609",
   "HardwareId":"d1a666a9-7826-4a9e-84d5-e234786a0833"},
+ {"memberid": "0002",
+  "nama_member": "tdee_gits",
+  "noWA": "08998606609",
+  "HardwareId":"5db1eb3d-55ac-4d2e-ac21-f36bb6f1538d"},
  {"memberid": "0002",
   "nama_member": "julitendean",
   "noWA": "081414988941",
